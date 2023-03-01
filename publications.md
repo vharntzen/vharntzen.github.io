@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  talks
-description: talks
+title:  publications
+description: publications
 ---
 
 ### 2023
