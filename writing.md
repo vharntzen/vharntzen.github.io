@@ -1,7 +1,7 @@
 ---
 layout: page
-title: writing
-description: writing
+title: tutorial
+description: tutorial
 ---
 
 My non-academic writing is typically in Dutch. Views are mine and do not necessarily represent Leiden University.
