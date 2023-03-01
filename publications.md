@@ -4,28 +4,15 @@ title:  publications
 description: publications
 ---
 
-### 2023
+
 
 ---
 
-### 2022
+Master thesis (May 2020): [Weighted Cox regression models to correct for outcome dependent sampling in clustered survival data](https://www.universiteitleiden.nl/binaries/content/assets/science/mi/scripties/statscience/2019-2020/thesis_-vera-arntzen.pdf)  // Simulation study and application to familiar cancer studies
 
 ---
 
-### 2021
+Research article (December 2019): [Multiple Sources of the Outbreak of Legionnaires' Disease in Genesee County, Michigan, in 2014 and 2015](https://ehp.niehs.nih.gov/doi/10.1289/EHP5663) // Anya F. Smith , Anke Huss , Samuel Dorevitch , Leo Heijnen , Vera H. Arntzen , Megan Davies , Mirna Robert-Du Ry van Beest Holle , Yuki Fujita , Antonie M. Verschoor , Bernard Raterman , Frank Oesterholt , Dick Heederik , and Gertjan Medema. Environmental Health perspectives.
 
 ---
  
-### 2020
-
-The culture of open scholarship
-[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_Big10Libs/oa2023.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/Talk_Big10Libs/oa2023_notes.pdf)
-[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Big10Libs)<br/>
-[The BIG
-Collection](https://btaa.org/library/big-collection/the-big-collection-introduction):
-[A Sequence of
-Convenings](https://btaa.org/library/big-collection/a-sequence-of-convenings),
-[Big 10 Academic Alliance Libraries](https://btaa.org/library/Libraries)
-(_Jan 10_)
-
