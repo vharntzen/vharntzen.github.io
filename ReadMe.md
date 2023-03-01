@@ -1,10 +1,5 @@
-## Karl Broman&rsquo;s website
-
-See [kbroman.org](https://kbroman.org).
+## Personal website of Vera Arntzen
 
 ---
 
-This web site is licensed under
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-
-[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+Thanks to Karl Broman, who made the template for this website openly available on See [his website](https://kbroman.org).

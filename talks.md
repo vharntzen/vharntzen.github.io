@@ -1,10 +1,22 @@
 ---
 layout: page
-title: talks
-description: Karl Broman's talks
+title:  talks
+description: Talks
 ---
 
 ### 2023
+
+---
+
+### 2022
+
+---
+
+### 2021
+
+---
+ 
+### 2020
 
 The culture of open scholarship
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_Big10Libs/oa2023.pdf)
