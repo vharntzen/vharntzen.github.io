@@ -1,64 +1,3 @@
-<<<<<<< HEAD
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
-    {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
-    <meta name="author" content="{{ site.author.name }}">
-
-    <!-- Enable responsive viewport -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
-    <!--[if lt IE 9]>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <!-- Le styles -->
-    <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.2.2.2.min.css" rel="stylesheet">
-    <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
-    <link href="{{ ASSET_PATH }}/css/kbroman.css" rel="stylesheet" type="text/css" media="all">
-
-    <!-- Le fav and touch icons -->
-    <link rel="SHORTCUT ICON" href="{{ BASE_PATH }}/me.ico"/>
-
-    <!-- atom & rss feed -->
-    <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
-    <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
-  </head>
-
-  <body>
-    <div class="navbar">
-      <div class="navbar-inner">
-        <div class="container-narrow">
-          <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
-          <ul class="nav">
-              <li><a href="{{ BASE_PATH }}/about.html">about</a></li>
-              <li><a href="{{ BASE_PATH }}/pubs.html">publications</a></li>
-              <li><a href="{{ BASE_PATH }}/talks.html">talks</a></li>
-              <li><a href="{{ BASE_PATH }}/software.html">software</a></li>
-              <li><a href="{{ BASE_PATH }}/teaching.html">teaching</a></li>
-              <li><a href="{{ BASE_PATH }}/tutorials.html">tutorials</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-
-    <div class="container-narrow">
-
-      <div class="content">
-        {{ content }}
-      </div>
-
-      <hr>
-
-    </div>
-
-    {% include JB/analytics %}
-  </body>
-=======
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
@@ -69,28 +8,43 @@
   <meta name="CocoaVersion" content="2113.6">
   <style type="text/css">
     p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #0000e3}
-    p.p4 {margin: 0.0px 0.0px 6.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
-    li.li3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #000000}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9}
+    p.p3 {margin: 0.0px 0.0px 6.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000; min-height: 14.0px}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #0000dc}
+    p.p6 {margin: 0.0px 0.0px 6.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    li.li2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9}
+    li.li5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #000000}
     span.s1 {font-kerning: none}
     span.s2 {text-decoration: underline ; font-kerning: none}
     span.s3 {-webkit-text-stroke: 0px #000000}
+    span.s4 {text-decoration: underline ; font-kerning: none; -webkit-text-stroke: 0px #0000dc}
     ul.ul1 {list-style-type: disc}
   </style>
 </head>
 <body>
-<p class="p1"><span class="s1">{% if page.description %}{% endif %} {% if page.keywords %}{% endif %}</span></p>
+<p class="p1"><span class="s1">&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD {% if page.description %}{% endif %} {% if page.keywords %}{% endif %}</span></p>
 <p class="p2"><span class="s2"><a href="file:///Users/veraarntzen/Library/CloudStorage/OneDrive-UniversiteitLeiden/Website/_includes/themes/twitter/%7B%7B%20HOME_PATH%20%7D%7D">{{ site.title }}</a></span></p>
 <ul class="ul1">
-  <li class="li3"><span class="s3"><a href="file:///Users/veraarntzen/Library/CloudStorage/OneDrive-UniversiteitLeiden/Website/_includes/themes/twitter/%7B%7B%20BASE_PATH%20%7D%7D/about.html"><span class="s2">about</span></a></span></li>
-  <li class="li3"><span class="s3"><a href="file:///Users/veraarntzen/Library/CloudStorage/OneDrive-UniversiteitLeiden/Website/_includes/themes/twitter/%7B%7B%20BASE_PATH%20%7D%7D/pubs.html"><span class="s2">publications</span></a></span></li>
-  <li class="li3"><span class="s3"><a href="file:///Users/veraarntzen/Library/CloudStorage/OneDrive-UniversiteitLeiden/Website/_includes/themes/twitter/%7B%7B%20BASE_PATH%20%7D%7D/talks.html"><span class="s2">talks</span></a></span></li>
-  <li class="li3"><span class="s3"><a href="file:///Users/veraarntzen/Library/CloudStorage/OneDrive-UniversiteitLeiden/Website/_includes/themes/twitter/%7B%7B%20BASE_PATH%20%7D%7D/tutorials.html"><span class="s2">tutorials</span></a></span></li>
+  <li class="li2"><span class="s3"><a href="file:///Users/veraarntzen/Library/CloudStorage/OneDrive-UniversiteitLeiden/Website/_includes/themes/twitter/%7B%7B%20BASE_PATH%20%7D%7D/about.html"><span class="s2">about</span></a></span></li>
+  <li class="li2"><span class="s3"><a href="file:///Users/veraarntzen/Library/CloudStorage/OneDrive-UniversiteitLeiden/Website/_includes/themes/twitter/%7B%7B%20BASE_PATH%20%7D%7D/pubs.html"><span class="s2">publications</span></a></span></li>
+  <li class="li2"><span class="s3"><a href="file:///Users/veraarntzen/Library/CloudStorage/OneDrive-UniversiteitLeiden/Website/_includes/themes/twitter/%7B%7B%20BASE_PATH%20%7D%7D/talks.html"><span class="s2">talks</span></a></span></li>
+  <li class="li2"><span class="s3"><a href="file:///Users/veraarntzen/Library/CloudStorage/OneDrive-UniversiteitLeiden/Website/_includes/themes/twitter/%7B%7B%20BASE_PATH%20%7D%7D/tutorials.html"><span class="s2">tutorials</span></a></span></li>
 </ul>
 <p class="p1"><span class="s1">{{ content }}<span class="Apple-converted-space"> </span></span></p>
-<p class="p4"><span class="s1"><br>
+<p class="p3"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">{% include JB/analytics %} =======</span></p>
+<p class="p1"><span class="s1">{% if page.description %}{% endif %} {% if page.keywords %}{% endif %}</span></p>
+<p class="p4"><span class="s2"><a href="file:///Users/veraarntzen/Library/CloudStorage/OneDrive-UniversiteitLeiden/Website/_includes/themes/twitter/%7B%7B%20HOME_PATH%20%7D%7D">{{ site.title }}<span class="s4"></span></a></span></p>
+<ul class="ul1">
+  <li class="li5"><span class="s3"><a href="file:///Users/veraarntzen/Library/CloudStorage/OneDrive-UniversiteitLeiden/Website/_includes/themes/twitter/%7B%7B%20BASE_PATH%20%7D%7D/about.html"><span class="s2">about</span></a></span></li>
+  <li class="li5"><span class="s3"><a href="file:///Users/veraarntzen/Library/CloudStorage/OneDrive-UniversiteitLeiden/Website/_includes/themes/twitter/%7B%7B%20BASE_PATH%20%7D%7D/pubs.html"><span class="s2">publications</span></a></span></li>
+  <li class="li5"><span class="s3"><a href="file:///Users/veraarntzen/Library/CloudStorage/OneDrive-UniversiteitLeiden/Website/_includes/themes/twitter/%7B%7B%20BASE_PATH%20%7D%7D/talks.html"><span class="s2">talks</span></a></span></li>
+  <li class="li5"><span class="s3"><a href="file:///Users/veraarntzen/Library/CloudStorage/OneDrive-UniversiteitLeiden/Website/_includes/themes/twitter/%7B%7B%20BASE_PATH%20%7D%7D/tutorials.html"><span class="s2">tutorials</span></a></span></li>
+</ul>
+<p class="p1"><span class="s1">{{ content }}<span class="Apple-converted-space"> </span></span></p>
+<p class="p6"><span class="s1"><br>
 </span></p>
 <p class="p1"><span class="s1">{% include JB/analytics %}<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">&gt;&gt;&gt;&gt;&gt;&gt;&gt; 41519b55a291e08c4be8b7e1a37deb4b4b8e3320<span class="Apple-converted-space"> </span></span></p>
 </body>
->>>>>>> 41519b55a291e08c4be8b7e1a37deb4b4b8e3320
 </html>
