@@ -8,11 +8,11 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Karl Broman
+title : Vera Arntzen
 author :
-  name : Karl Broman
-  email : kbroman@gmail.com
-  github : kbroman
+  name : Vera Arntzen
+  email :  - 
+  github : vharntzen
   feedburner : nil
 
 production_url : https://kbroman.github.io
