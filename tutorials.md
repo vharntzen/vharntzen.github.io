@@ -1,12 +1,7 @@
 ---
 layout: page
-<<<<<<< HEAD:tutorials.md
 title: tutorials
 description: tutorials
-=======
-title: tutorial
-description: tutorial
->>>>>>> 41519b55a291e08c4be8b7e1a37deb4b4b8e3320:writing.md
 ---
 
 My non-academic writing is typically in Dutch. Views are mine and do not necessarily represent Leiden University.
