@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Writing (non-academic)
+title: tutorials
 description: Writing (non-academic)
 ---
 
