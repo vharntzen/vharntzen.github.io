@@ -4,20 +4,12 @@ title: about
 description: about
 ---
 
-I am Vera, currently working as a PhD candidate in statistics applied to infectious disease. I work in the department of Mathematics, Leiden University, in the [group](https://sites.google.com/view/daspo/members) lead by Marta Fiocco. 
-[R/qtl](https://rqtl.org) and [R/qtl2](https://kbroman.org/qtl2) (for
-[R](https://www.r-project.org)).
+I am Vera, currently working as a PhD candidate in statistics applied to infectious disease. I work in the department of Mathematics, Leiden University, in the [group](https://sites.google.com/view/daspo/members) lead by Marta Fiocco. My supervisors are Marta Fiocco (promotor) and Ronald Geskus (co-promotor)
 
 Work in progress. (...)
 
-%[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/broman_cv.pdf)<br/>
 Orcid: [0000-0002-2642-9898](https://orcid.org/0000-0002-2642-9898)<br/>
-%[google scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=42tCp5UAAAAJ&view_op=list_works)<br/>
-%[pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=broman+kw)<br/>
-%<!-- [impactstory](https://impactstory.org/u/0000-0002-4914-6671)<br/> -->
 [Github](https://github.com/vharntzen)<br/>
-%<a rel="me" href="https://fosstodon.org/@kbroman">mastodon</a><br/>
-%[blog](https://kbroman.org/blog/) <br/>
 she/her
 
 ---
@@ -29,8 +21,7 @@ she/her
         <div class="span5">
             Vera Arntzen<br/>
             <a href="https://www.biostat.wisc.edu">Department of Biostatistics &amp; Medical Informatics</a><br/>
-            <a href="https://www.wisc.edu">Leiden University&ndash;Madison</a><br/>
-            <a href="6743msc.html">6743 Medical Sciences Center</a><br/>
+            <a href="https://www.wisc.edu">Leiden University</a><br/>
            Snellius gebouw <br/>
            Niels Bohrweg 1<br/>
            2333 LA<br/>
