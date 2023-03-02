@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  talks
+title:  t a l k s
 description: talks
 ---
 
