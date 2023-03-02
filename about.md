@@ -36,9 +36,9 @@ she/her
         </div>
 
         <div class="span2">
-        <a href="../pics/karl_2014-03-30.jpg">
-            <img src="../pics/karl_2014-03-30_small.jpg"
-                  title="Karl Broman" alt="Karl Broman"/></a>
+        <a href="../pics/profile.jpg">
+            <img src="../pics/profile.jpg"
+                  title="Profile" alt="Profile"/></a>
         </div>
     </div>
 </div>
