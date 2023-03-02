@@ -6,3 +6,6 @@ keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical g
 ---
 
 Welcome on my personal website! It is still under construction.
+
+
+Many thanks to Karl Broman who made this website design openly available.
