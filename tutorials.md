@@ -1,6 +1,6 @@
 ---
 layout: page
-title: tutorials
+title: w r i t i n g
 description: writing
 ---
 
