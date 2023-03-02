@@ -20,8 +20,8 @@ she/her
     <div class="row-fluid">
         <div class="span5">
             Vera Arntzen<br/>
-            <a href="https://www.biostat.wisc.edu">Department of Biostatistics &amp; Medical Informatics</a><br/>
-            <a href="https://www.wisc.edu">Leiden University</a><br/>
+            <a href="https://www.universiteitleiden.nl/en/staffmembers/vera-arntzen#tab-1">Mathematical Institute</a><br/>
+            <a href="https://www.universiteitleiden.nl">Leiden University</a><br/>
            Snellius gebouw <br/>
            Niels Bohrweg 1<br/>
            2333 LA<br/>
