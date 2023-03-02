@@ -1,7 +1,7 @@
 ---
 layout: page
-title: about
-description: about
+title: a b o u t
+description: a b o u t
 ---
 
 I am Vera, currently working as a PhD candidate in statistics applied to infectious disease. I work in the department of Mathematics, Leiden University, in the [group](https://sites.google.com/view/daspo/members) lead by Marta Fiocco. My supervisors are Marta Fiocco (promotor) and Ronald Geskus (co-promotor)
@@ -36,9 +36,9 @@ she/her
         </div>
 
         <div class="span2">
-        <a href="../pics/karl_2014-03-30.jpg">
-            <img src="../pics/karl_2014-03-30_small.jpg"
-                  title="Karl Broman" alt="Karl Broman"/></a>
+        <a href="../pics/profile.jpg">
+            <img src="../pics/profile.jpg"
+                  title="Profile" alt="Profile"/></a>
         </div>
     </div>
 </div>
