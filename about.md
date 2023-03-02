@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: a b o u t
 description: about
 ---
 
