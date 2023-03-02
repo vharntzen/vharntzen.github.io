@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  publications
+title:  p u b l i c a t i o n s
 description: publications
 ---
 
