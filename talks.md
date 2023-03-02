@@ -6,6 +6,10 @@ description: talks
 
 # Seminars
 
+Under construction
+
+April 19th, 2021	Estimating incubation and latency time of an infectious disease. Statistics group, Mathematical Institute.
+September 21th, 2020	Weighted Cox to correct for outcome dependent sampling in clustered survival data. Survival analysis, LUMC
 
 ---
 
@@ -17,5 +21,7 @@ description: talks
 
 ---
 
- 
+# Teaching
+Leiden University College, Introduction to Statistics
+
 
