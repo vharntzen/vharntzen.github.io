@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  p u b l i c a t i o n s
-description: publications
+description: p u b l i c a t i o n s
 ---
 
 
