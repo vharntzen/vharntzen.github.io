@@ -4,9 +4,9 @@ title: a b o u t
 description: a b o u t
 ---
 
-I am Vera, currently working as a PhD candidate in statistics applied to infectious disease. I work in the department of Mathematics, Leiden University, in the [group](https://sites.google.com/view/daspo/members) lead by Marta Fiocco. My supervisors are Marta Fiocco (promotor) and Ronald Geskus (co-promotor)
+I am Vera, currently working as a PhD candidate in statistics applied to infectious disease. Since june 2020, I work in the department of Mathematics, Leiden University, in the [group](https://sites.google.com/view/daspo/members) lead by Marta Fiocco. My supervisors are Marta Fiocco (promotor) and Ronald Geskus (co-promotor).
 
-Work in progress. (...)
+---
 
 Orcid: [0000-0002-2642-9898](https://orcid.org/0000-0002-2642-9898)<br/>
 [Github](https://github.com/vharntzen)<br/>
@@ -15,13 +15,13 @@ she/her
 ---
 
 <div class="container">
-<h4><a name="Contact"></a>contact</h4>
+<h4><a name="c o n t a c t"></a>contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
             Vera Arntzen<br/>
-            <a href="https://www.biostat.wisc.edu">Department of Biostatistics &amp; Medical Informatics</a><br/>
-            <a href="https://www.wisc.edu">Leiden University</a><br/>
+            <a href="https://www.universiteitleiden.nl/en/staffmembers/vera-arntzen#tab-1">Mathematical Institute</a><br/>
+            <a href="https://www.universiteitleiden.nl">Leiden University</a><br/>
            Snellius gebouw <br/>
            Niels Bohrweg 1<br/>
            2333 LA<br/>
