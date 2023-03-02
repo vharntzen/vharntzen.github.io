@@ -10,13 +10,13 @@ Under construction (...)
 
 ### Seminars ###
 
-October 14th, 2021 Health focus group seminar, Leiden Estimating the incubation time of SARS-CoV-2 / Impact of distributional assumptions 
+October 14th, 2021 **Health focus group seminar, Leiden** *Estimating the incubation time of SARS-CoV-2 / Impact of distributional assumptions 
 
-September 30th, 2021 PhD Colloquium, Mathematical Institute, Leiden Introduction to my work 
+September 30th, 2021 **PhD Colloquium, Mathematical Institute, Leiden** *Introduction to my work 
 
-September 2nd, 2021	LUMC Statistics department, “MSTAT” meeting, Leiden Estimating the incubation time of SARS-CoV-2 / Impact of distributional assumptions
+September 2nd, 2021	**LUMC Statistics department, “MSTAT” meeting, Leiden** *Estimating the incubation time of SARS-CoV-2 / Impact of distributional assumptions
 
-April 19th, 2021 Statistics group, Mathematical Institute	Estimating incubation and latency time of an infectious disease.
+April 19th, 2021 **Statistics group, Mathematical Institute**	*Estimating incubation and latency time of an infectious disease.
 September 21th, 2020	Weighted Cox to correct for outcome dependent sampling in clustered survival data. Survival analysis, LUMC
 
 ---
@@ -42,7 +42,6 @@ July 19th, 2021	**ISCB 2021** International Society for Clinical Biostatistics, 
 ---
 
 ### Teaching
-Under construction (...)
-Leiden University College, Introduction to Statistics
+2020, 2021, 2022 **Leiden University College**, *Introduction to Statistics* Introduction course in statistics for students with broad interests: lecturing, content creation, exercise class, tutoring and grading.
 
 
