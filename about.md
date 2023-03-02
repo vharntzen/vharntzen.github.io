@@ -8,6 +8,11 @@ I am Vera, currently working as a PhD candidate in statistics applied to infecti
 
 ---
 
+   
+[Orcid](https://orcid.org/0000-0002-2642-9898) | [Github](https://github.com/vharntzen) | [LinkedIn](https://nl.linkedin.com/in/vera-arntzen)
+
+---
+
 <div class="container">
 <h4><a name="c o n t a c t"></a>contact</h4>
 
@@ -21,11 +26,6 @@ I am Vera, currently working as a PhD candidate in statistics applied to infecti
            2333 LA, Leiden<br/>
            The Netherlands<br/><br/>
             
-            
-           [Orcid](https://orcid.org/0000-0002-2642-9898) 0000-0002-2642-9898 <br/>
-           [Github](https://github.com/vharntzen)<br/>
-           [LinkedIn](https://nl.linkedin.com/in/vera-arntzen) <br/>
-
             <div id="hide_email">
             Email: <code>v.h.</code><b>I</b><code>arntzen</code><b>don't</b><code> "at" </code><b>want</b><code></code><b>spam!
             </b><code></code><b>So</b><code></code><b>please</b><code>math.</code><b>leave
