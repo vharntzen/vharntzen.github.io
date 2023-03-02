@@ -24,8 +24,7 @@ she/her
             <a href="https://www.universiteitleiden.nl">Leiden University</a><br/>
            Snellius gebouw <br/>
            Niels Bohrweg 1<br/>
-           2333 LA<br/>
-           Leiden<br/>
+           2333 LA, Leiden<br/>
            The Netherlands<br/><br/>
 
             <div id="hide_email">
