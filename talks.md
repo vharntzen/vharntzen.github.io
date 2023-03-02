@@ -4,28 +4,18 @@ title:  t a l k s
 description: talks
 ---
 
-### 2023
+# Seminars
+
 
 ---
 
-### 2022
+# Conferences
+*Oral presentation* **IBC 2022** International Biometric Society, Riga, Latvia. 
+*Oral presentation* **ISCB 2022** International Society for Clinical Biostatistics, Newcastle, United Kingdom.
+*Oral presentation* **ISCB 2021** International Society for Clinical Biostatistics, online.
+*Poster presentation* **EPIDEMICS** International Conference on Infectious Disease Dynamics, Sitges, Spain.
 
 ---
 
-### 2021
-
----
  
-### 2020
-
-The culture of open scholarship
-[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_Big10Libs/oa2023.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/Talk_Big10Libs/oa2023_notes.pdf)
-[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Big10Libs)<br/>
-[The BIG
-Collection](https://btaa.org/library/big-collection/the-big-collection-introduction):
-[A Sequence of
-Convenings](https://btaa.org/library/big-collection/a-sequence-of-convenings),
-[Big 10 Academic Alliance Libraries](https://btaa.org/library/Libraries)
-(_Jan 10_)
 
