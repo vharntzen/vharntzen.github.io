@@ -43,4 +43,4 @@ I am Vera, currently working as a PhD candidate in statistics applied to infecti
     </div>
 </div>
 
-{\small Many thanks to Karl Broman who made this website design openly available.}
+
