@@ -1,8 +1,8 @@
 ---
 layout: frontpage
 title: Vera Arntzen
-description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
-keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical genetics, recombination
+description: Vera Arntzen is a PhD candidate in infectious disease statistics at Mathematical Institute, Leiden University, The Netherlands.
+keywords: Arntzen, infectious disease, statistics
 ---
 
 
@@ -43,4 +43,4 @@ I am Vera, currently working as a PhD candidate in statistics applied to infecti
     </div>
 </div>
 
-{\small Many thanks to Karl Broman who made this website design openly available.}
+
