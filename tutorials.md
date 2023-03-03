@@ -10,7 +10,8 @@ My non-academic writing is typically in Dutch. Views are mine and do not represe
 
 ### VVSOR blog
 Blog van de Nederlandse Vereniging voor Statistiek en Operations Research (VVSOR)
-- [Waarom juist de statisticus (m) het vrouwenquotum moet omarmen](https://blog.vvsor.nl/2022/11/waarom-juist-de-statisticus-m-het-vrouwenquotum-moet-omarmen/) 	// 25/11/2022
+
+[Waarom juist de statisticus (m) het vrouwenquotum moet omarmen](https://blog.vvsor.nl/2022/11/waarom-juist-de-statisticus-m-het-vrouwenquotum-moet-omarmen/) 	// 25/11/2022
 
 ---
 
@@ -64,23 +65,37 @@ Blog van de Nederlandse Vereniging voor Statistiek en Operations Research (VVSOR
 
 2019
 
-- [Ik zoek een bestuurskamer](https://www.mareonline.nl/studentenleven/de-dinsdag-avond-club-zonder-de-odessa-ik-zoek-nog-een-bestuurskamer/)	//	05/12/2019	//	Kamervragen
-- 
-- [Lo is ook lid bij Minerva](https://www.mareonline.nl/studentenleven/lodewijk-de-labrador-is-ook-lid-van-minerva/)	//	28/11/2019	//	Het Clubje
-- 
-- [Ik kon gewoon goed leren](https://www.mareonline.nl/studentenleven/ik-kon-gewoon-goed-leren/)	//	21/11/2019	//	Kamervragen
-- [Je kunt zeepaardjes zien](https://www.mareonline.nl/studentenleven/studenten-duikclub-lsd-je-kunt-zeepaardjes-zien/)	//	14/11/2019	//	Het Clubje
-- [Ik pas niet in een collegebank](https://www.mareonline.nl/studentenleven/ik-pas-niet-in-een-collegebank/)	//	07/11/2019	//	Kamervragen
-- [Voortaan in Mare: Lamme Leidsche Memes voor Pseudocorporale Teens	//	31/10/2019	//	Het Clubje](https://www.mareonline.nl/studentenleven/het-clubje-we-trappen-overal-tegenaan)
-- [Je danst zoals je noedels maakt](https://www.mareonline.nl/studentenleven/je-danst-zoals-je-noedels-maakt/)	//	12/09/2019	//	Het Clubje
-- [Of we nerds zijn? Valt wel mee](https://www.mareonline.nl/studentenleven/nerds-valt-wel-mee/	)	//	20/06/2019	//	Het Clubje
-- [Je kunt hier uren rondrennen](https://www.mareonline.nl/studentenleven/je-kunt-hier-uren-rondrennen/)	//	13/06/2019	//	Kamervragen
-- [Die blauwe stoelen zitten lekker](https://www.mareonline.nl/studentenleven/die-blauwe-stoelen-zitten-lekker/)	//	06/06/2019	//	Frutti di Mare
-- [Ik denk anders over donor zijn](https://www.mareonline.nl/studentenleven/ik-denk-anders-over-donor-zijn/)	//	06/06/2019	//	Het Clubje
-- [Zoek je een autist? Er zit er hier één!](https://www.mareonline.nl/studentenleven/zoek-je-een-autist-hier-zit-er-een/)	//	23/05/2019	//	Kamervragen
-- [Als je tekent zie je steeds meer](https://www.mareonline.nl/studentenleven/tekenaars-van-de-hortus-botanicus-als-je-tekent-zie-je-steeds-meer/)	//	16/05/2019	//	Het Clubje
-- [We hebben alleen tijd voor Said en de studie](https://www.mareonline.nl/studentenleven/we-hebben-alleen-maar-tijd-voor-said-en-de-studie/	)	//	09/05/2019	//	Kamervragen
-- [Even niet op mijn hoofd slaan	](https://www.mareonline.nl/studentenleven/kamervragen-even-niet-op-mijn-hoofd-slaan/)//	11/04/2019	//	Kamervragen
-- [Njord is toe aan een nieuwe zwaan](https://www.mareonline.nl/studentenleven/njord-is-toe-aan-een-nieuwe-zwaan/)	//	04/04/2019	//	Frutti di Mare
-- [Ik woon in de bezemkast](https://www.mareonline.nl/studentenleven/ik-woon-in-de-bezemkast/)	//	28/03/2019	//	Kamervragen
+[Ik zoek een bestuurskamer](https://www.mareonline.nl/studentenleven/de-dinsdag-avond-club-zonder-de-odessa-ik-zoek-nog-een-bestuurskamer/)	//	05/12/2019	//	Kamervragen
+
+[Lo is ook lid bij Minerva](https://www.mareonline.nl/studentenleven/lodewijk-de-labrador-is-ook-lid-van-minerva/)	//	28/11/2019	//	Het Clubje
+ 
+[Ik kon gewoon goed leren](https://www.mareonline.nl/studentenleven/ik-kon-gewoon-goed-leren/)	//	21/11/2019	//	Kamervragen
+
+[Je kunt zeepaardjes zien](https://www.mareonline.nl/studentenleven/studenten-duikclub-lsd-je-kunt-zeepaardjes-zien/)	//	14/11/2019	//	Het Clubje
+
+[Ik pas niet in een collegebank](https://www.mareonline.nl/studentenleven/ik-pas-niet-in-een-collegebank/)	//	07/11/2019	//	Kamervragen
+
+[Voortaan in Mare: Lamme Leidsche Memes voor Pseudocorporale Teens	//	31/10/2019	//	Het Clubje](https://www.mareonline.nl/studentenleven/het-clubje-we-trappen-overal-tegenaan)
+
+[Je danst zoals je noedels maakt](https://www.mareonline.nl/studentenleven/je-danst-zoals-je-noedels-maakt/)	//	12/09/2019	//	Het Clubje
+
+[Of we nerds zijn? Valt wel mee](https://www.mareonline.nl/studentenleven/nerds-valt-wel-mee/	)	//	20/06/2019	//	Het Clubje
+
+[Je kunt hier uren rondrennen](https://www.mareonline.nl/studentenleven/je-kunt-hier-uren-rondrennen/)	//	13/06/2019	//	Kamervragen
+
+[Die blauwe stoelen zitten lekker](https://www.mareonline.nl/studentenleven/die-blauwe-stoelen-zitten-lekker/)	//	06/06/2019	//	Frutti di Mare
+
+[Ik denk anders over donor zijn](https://www.mareonline.nl/studentenleven/ik-denk-anders-over-donor-zijn/)	//	06/06/2019	//	Het Clubje
+
+[Zoek je een autist? Er zit er hier één!](https://www.mareonline.nl/studentenleven/zoek-je-een-autist-hier-zit-er-een/)	//	23/05/2019	//	Kamervragen
+
+[Als je tekent zie je steeds meer](https://www.mareonline.nl/studentenleven/tekenaars-van-de-hortus-botanicus-als-je-tekent-zie-je-steeds-meer/)	//	16/05/2019	//	Het Clubje
+
+[We hebben alleen tijd voor Said en de studie](https://www.mareonline.nl/studentenleven/we-hebben-alleen-maar-tijd-voor-said-en-de-studie/	)	//	09/05/2019	//	Kamervragen
+
+[Even niet op mijn hoofd slaan	](https://www.mareonline.nl/studentenleven/kamervragen-even-niet-op-mijn-hoofd-slaan/)//	11/04/2019	//	Kamervragen
+
+[Njord is toe aan een nieuwe zwaan](https://www.mareonline.nl/studentenleven/njord-is-toe-aan-een-nieuwe-zwaan/)	//	04/04/2019	//	Frutti di Mare
+
+[Ik woon in de bezemkast](https://www.mareonline.nl/studentenleven/ik-woon-in-de-bezemkast/)	//	28/03/2019	//	Kamervragen
 
