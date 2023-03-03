@@ -18,37 +18,56 @@ Blog van de Nederlandse Vereniging voor Statistiek en Operations Research (VVSOR
 
 2021
 
-- [Lisa Bruijnincx is wéér wereldkampioen ‘maar zou gek worden als ik alleen maar zou roeien’](https://www.mareonline.nl/nieuws/wereldkampioen-lisa-bruijnincx-zou-gek-worden-als-ik-alleen-maar-zou-roeien)	//	13/07/2021	//	Nieuws
-- [Afscheid van het krijtbord (voor even)](https://www.mareonline.nl/wetenschap/afscheid-van-het-krijtbord-voor-even/?fbclid=IwAR0DT3QDSDiMSx5Ts1Z0Y2HkQXjTUXyYNf5MlCGyb9qgA5yG5SkwVAsRfAE)	//	22/04/2021	//	Wetenschap
-- [Hoe een Leids student een spiritueel meester werd](https://www.mareonline.nl/studentenleven/hoe-een-leids-student-een-spiritueel-meester-werd/	)	//	21/04/2021	//	Studentenleven
-- [Liefdesverhalen uit China vertaald: ‘Sprookjesachtig, absurd en feministisch’](https://www.mareonline.nl/cultuur/surrealistische-chinese-liefdesverhalen-in-het-nederlands-sprookjesachtig-absurd-en-een-beetje-feministisch/)	//	19/04/2021	//	Cultuur
+[Lisa Bruijnincx is wéér wereldkampioen ‘maar zou gek worden als ik alleen maar zou roeien’](https://www.mareonline.nl/nieuws/wereldkampioen-lisa-bruijnincx-zou-gek-worden-als-ik-alleen-maar-zou-roeien)	//	13/07/2021	//	Nieuws
+
+[Afscheid van het krijtbord (voor even)](https://www.mareonline.nl/wetenschap/afscheid-van-het-krijtbord-voor-even/?fbclid=IwAR0DT3QDSDiMSx5Ts1Z0Y2HkQXjTUXyYNf5MlCGyb9qgA5yG5SkwVAsRfAE)	//	22/04/2021	//	Wetenschap
+
+[Hoe een Leids student een spiritueel meester werd](https://www.mareonline.nl/studentenleven/hoe-een-leids-student-een-spiritueel-meester-werd/	)	//	21/04/2021	//	Studentenleven
+
+[Liefdesverhalen uit China vertaald: ‘Sprookjesachtig, absurd en feministisch’](https://www.mareonline.nl/cultuur/surrealistische-chinese-liefdesverhalen-in-het-nederlands-sprookjesachtig-absurd-en-een-beetje-feministisch/)	//	19/04/2021	//	Cultuur
 
 ---
 
 2020
 
-- [Deze studenten begonnen voor zichzelf](https://www.mareonline.nl/studentenleven/deze-studenten-begonnen-voor-zichzelf/)	//	02/11/2020	//	Studentenleven
-- [Wij zijn geen helden maar deden gewoon ons werk](https://www.mareonline.nl/studentenleven/wij-zijn-geen-helden-maar-deden-gewoon-ons-werk/)	//	28/09/2020	//	Studentenleven
-- [Ik wil de grenzen opzoeken van een schilderij	](https://www.mareonline.nl/cultuur/ik-wil-de-grenzen-opzoeken-van-een-schilderij/)//	04/09/2020	//	Cultuur
-- [Corona maakt de Ramadan nog intenser](https://www.mareonline.nl/studentenleven/ramadan-tijdens-coronacrisis/)	//	22/05/2020	//	Studentenleven
-- [Online gaat de burrel geweun deur](https://www.mareonline.nl/studentenleven/online-gaat-de-burrul-geweun-deur/)	//	25/03/2020	//	Studentenleven
-- [Shitty wonen voor 675 euro per maand](https://www.mareonline.nl/studentenleven/shitty-wonen-voor-675-euro-per-maand/)	//	12/03/2020	//	Kamervragen
-- [Burlesque is net zo spannend als je niet stript	](https://www.mareonline.nl/studentenleven/burlesque-is-net-zo-spannend-als-je-niet-stript/)//	05/03/2020	//	Het Clubje
-- [We hebben allemaal een plantenfetisj](https://www.mareonline.nl/studentenleven/we-hebben-allemaal-een-plantenfetisj/)	//	13/02/2020	//	Het Clubje
-- [Is er leven na dry january of veganuary?](https://www.mareonline.nl/studentenleven/is-er-leven-na-dry-january-of-veganuary/)	//	13/02/2020	//	Studentenleven
-- [We houden allemaal wel van puzzelen](https://www.mareonline.nl/studentenleven/we-houden-allemaal-van-puzzelen/)	//	07/02/2020	//	Kamervragen
-- [Ik huilde toen Wuhan dichtging](https://www.mareonline.nl/nieuws/studenten-blijven-in-china/)	//	30/01/2020	//	Nieuws
-- [Je kunt nu ook liggend daten](https://www.mareonline.nl/studentenleven/op-stukafest-kan-je-liggend-daten/)	//	30/01/2020	//	Het Clubje
-- [De katten eten slagroom van gasten](https://www.mareonline.nl/studentenleven/leiden-heeft-een-kattencafe-de-katten-eten-slagroom-van-de-gasten/)	//	23/01/2020	//	Kamervragen
-- [Leidse troepen bereiden zich voor op het NK Risk](https://www.mareonline.nl/cultuur/leidse-troepen-bereiden-zich-voor-op-het-nk-risk/)	//	16/01/2020	//	Cultuurpagina
-- [Koffiegevers zijn life savers](https://www.mareonline.nl/studentenleven/de-baristas-van-cafe-ube-koffiegevers-zijn-life-savers/)	//	16/01/2020	//	Het Clubje
+[Deze studenten begonnen voor zichzelf](https://www.mareonline.nl/studentenleven/deze-studenten-begonnen-voor-zichzelf/)	//	02/11/2020	//	Studentenleven
+
+[Wij zijn geen helden maar deden gewoon ons werk](https://www.mareonline.nl/studentenleven/wij-zijn-geen-helden-maar-deden-gewoon-ons-werk/)	//	28/09/2020	//	Studentenleven
+
+[Ik wil de grenzen opzoeken van een schilderij	](https://www.mareonline.nl/cultuur/ik-wil-de-grenzen-opzoeken-van-een-schilderij/)//	04/09/2020	//	Cultuur
+
+[Corona maakt de Ramadan nog intenser](https://www.mareonline.nl/studentenleven/ramadan-tijdens-coronacrisis/)	//	22/05/2020	//	Studentenleven
+
+[Online gaat de burrel geweun deur](https://www.mareonline.nl/studentenleven/online-gaat-de-burrul-geweun-deur/)	//	25/03/2020	//	Studentenleven
+
+[Shitty wonen voor 675 euro per maand](https://www.mareonline.nl/studentenleven/shitty-wonen-voor-675-euro-per-maand/)	//	12/03/2020	//	Kamervragen
+
+[Burlesque is net zo spannend als je niet stript	](https://www.mareonline.nl/studentenleven/burlesque-is-net-zo-spannend-als-je-niet-stript/)//	05/03/2020	//	Het Clubje
+
+[We hebben allemaal een plantenfetisj](https://www.mareonline.nl/studentenleven/we-hebben-allemaal-een-plantenfetisj/)	//	13/02/2020	//	Het Clubje
+
+[Is er leven na dry january of veganuary?](https://www.mareonline.nl/studentenleven/is-er-leven-na-dry-january-of-veganuary/)	//	13/02/2020	//	Studentenleven
+
+[We houden allemaal wel van puzzelen](https://www.mareonline.nl/studentenleven/we-houden-allemaal-van-puzzelen/)	//	07/02/2020	//	Kamervragen
+
+[Ik huilde toen Wuhan dichtging](https://www.mareonline.nl/nieuws/studenten-blijven-in-china/)	//	30/01/2020	//	Nieuws
+
+[Je kunt nu ook liggend daten](https://www.mareonline.nl/studentenleven/op-stukafest-kan-je-liggend-daten/)	//	30/01/2020	//	Het Clubje
+
+[De katten eten slagroom van gasten](https://www.mareonline.nl/studentenleven/leiden-heeft-een-kattencafe-de-katten-eten-slagroom-van-de-gasten/)	//	23/01/2020	//	Kamervragen
+
+[Leidse troepen bereiden zich voor op het NK Risk](https://www.mareonline.nl/cultuur/leidse-troepen-bereiden-zich-voor-op-het-nk-risk/)	//	16/01/2020	//	Cultuurpagina
+
+[Koffiegevers zijn life savers](https://www.mareonline.nl/studentenleven/de-baristas-van-cafe-ube-koffiegevers-zijn-life-savers/)	//	16/01/2020	//	Het Clubje
 
 ---
 
 2019
 
 - [Ik zoek een bestuurskamer](https://www.mareonline.nl/studentenleven/de-dinsdag-avond-club-zonder-de-odessa-ik-zoek-nog-een-bestuurskamer/)	//	05/12/2019	//	Kamervragen
+- 
 - [Lo is ook lid bij Minerva](https://www.mareonline.nl/studentenleven/lodewijk-de-labrador-is-ook-lid-van-minerva/)	//	28/11/2019	//	Het Clubje
+- 
 - [Ik kon gewoon goed leren](https://www.mareonline.nl/studentenleven/ik-kon-gewoon-goed-leren/)	//	21/11/2019	//	Kamervragen
 - [Je kunt zeepaardjes zien](https://www.mareonline.nl/studentenleven/studenten-duikclub-lsd-je-kunt-zeepaardjes-zien/)	//	14/11/2019	//	Het Clubje
 - [Ik pas niet in een collegebank](https://www.mareonline.nl/studentenleven/ik-pas-niet-in-een-collegebank/)	//	07/11/2019	//	Kamervragen
