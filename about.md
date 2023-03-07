@@ -9,7 +9,7 @@ I am Vera, currently working as a PhD candidate in statistics applied to infecti
 ---
 
    
-[Orcid](https://orcid.org/0000-0002-2642-9898) /| [Github](https://github.com/vharntzen) /| [LinkedIn](https://nl.linkedin.com/in/vera-arntzen)
+[Orcid](https://orcid.org/0000-0002-2642-9898) /| [Github](https://github.com/vharntzen) /| [LinkedIn](https://nl.linkedin.com/in/vera-arntzen-b48271163)
 
 ---
 
