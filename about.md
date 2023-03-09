@@ -1,6 +1,6 @@
 ---
 layout: page
-title: a b o u t
+title:
 description: a b o u t
 ---
 
@@ -9,7 +9,7 @@ description: a b o u t
 <div class="container">
 
     <div class="row-fluid">
-        <div class="span5">
+        <div class="span12">
         <a href="../pics/about_txt.jpg">
             <img src="../pics/about_txt.jpg"
                   title="Profile" alt="Profile"/></a>
