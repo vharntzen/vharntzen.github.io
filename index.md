@@ -5,13 +5,12 @@ description: Vera Arntzen is a PhD candidate in infectious disease statistics at
 keywords: Arntzen, infectious disease, statistics
 ---
 
-
 I am Vera, currently working as a PhD candidate in statistics applied to infectious disease. Since june 2020, I work in the department of Mathematics, Leiden University, in the [statistics group](https://sites.google.com/view/daspo/members) lead by Marta Fiocco. My supervisors are Marta Fiocco (promotor) and Ronald Geskus (co-promotor).
 
 ---
 
    
-[Orcid](https://orcid.org/0000-0002-2642-9898) /| [Github](https://github.com/vharntzen) /| [LinkedIn](https://nl.linkedin.com/in/vera-arntzen)
+[Orcid](https://orcid.org/0000-0002-2642-9898) /| [Github](https://github.com/vharntzen) /| [LinkedIn](https://nl.linkedin.com/in/vera-arntzen-b48271163)
 
 ---
 
