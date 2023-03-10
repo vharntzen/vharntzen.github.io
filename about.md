@@ -10,7 +10,6 @@ description: a b o u t
 
     <div class="row-fluid">
         <div class="span12">
-        <a href="../pics/about_txt.jpg">
             <img src="../pics/about_txt.jpg"
                   title="Profile" alt="Profile"/></a>
         </div>
