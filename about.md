@@ -9,9 +9,9 @@ description: a b o u t
 <div class="container">
 
     <div class="row-fluid">
-        <div class="span12">
+        <div class="span5">
             <img src="../pics/about_txt.jpg"
-                  title="Profile" alt="Profile"/></a>
+                  title="Profile" alt="Profile"/>
         </div>
     </div>
 </div>
