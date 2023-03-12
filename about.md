@@ -9,7 +9,7 @@ description: a b o u t
 <div class="container">
 
     <div class="row-fluid">
-        <div class="span2">
+        <div class="span8">
             <img src="../pics/about_txt.jpg"
                   title="Profile" alt="Profile"/>
         </div>
