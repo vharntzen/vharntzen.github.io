@@ -1,7 +1,20 @@
 ---
 layout: page
-title:  p u b l i c a t i o n s
+title:  
 description: p u b l i c a t i o n s
+---
+
+
+<div class="container">
+
+    <div class="row-fluid">
+        <div class="span7">
+            <img src="../pics/publications_txt.jpg"
+                  title="Profile" alt="Profile"/>
+        </div>
+    </div>
+</div>
+
 ---
 
 *Research article* (February 2023): A new inverse probability of selection weighted Cox model to deal with outcome-dependent sampling in survival analysis // **Vera H. Arntzen**, Marta Fiocco, Inge M.M. Lakeman, Maartje Nielsen, Mar Rodríguez-Girondo In submission, preprint available on [bioaRXiv](https://www.biorxiv.org/content/10.1101/2023.02.07.527426v1)
