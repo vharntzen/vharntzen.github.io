@@ -1,7 +1,20 @@
 ---
 layout: page
-title:  t a l k s
+title: 
 description: talks
+---
+
+
+<div class="container">
+
+    <div class="row-fluid">
+        <div class="span7">
+            <img src="../pics/talks_txt.jpg"
+                  title="Profile" alt="Profile"/>
+        </div>
+    </div>
+</div>
+
 ---
 
 Under construction (...)
