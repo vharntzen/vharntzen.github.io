@@ -1,7 +1,19 @@
 ---
 layout: page
-title: w r i t i n g
+title: 
 description: writing
+---
+
+<div class="container">
+
+    <div class="row-fluid">
+        <div class="span7">
+            <img src="../pics/writing_txt.jpg"
+                  title="Profile" alt="Profile"/>
+        </div>
+    </div>
+</div>
+
 ---
 
 My non-academic writing is typically in Dutch. Views are mine and do not represent Leiden University.
