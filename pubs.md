@@ -28,3 +28,5 @@ description: p u b l i c a t i o n s
 *Research article* (December 2019): [Multiple Sources of the Outbreak of Legionnaires' Disease in Genesee County, Michigan, in 2014 and 2015](https://ehp.niehs.nih.gov/doi/10.1289/EHP5663) // Anya F. Smith , Anke Huss , Samuel Dorevitch , Leo Heijnen , **Vera H. Arntzen** , Megan Davies , Mirna Robert-Du Ry van Beest Holle , Yuki Fujita , Antonie M. Verschoor , Bernard Raterman , Frank Oesterholt , Dick Heederik , and Gertjan Medema. Environmental Health perspectives.
 
 ---
+
+*Article based on master course* (June 2015) [Dystonia and psychiatric disorders A pathofysiological connection?](https://www.ramsresearch.nl/wp-content/uploads/Second-Edition-Dystonia.pdf) // Inge Roof, Noortje van Elderen en Vera Arntzen. Radboud Annals of Medical Students (RAMS).
