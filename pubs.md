@@ -21,7 +21,7 @@ description: p u b l i c a t i o n s
 
 ---
 
-*Master thesis* (May 2020): [Weighted Cox regression models to correct for outcome dependent sampling in clustered survival data](https://www.universiteitleiden.nl/binaries/content/assets/science/mi/scripties/statscience/2019-2020/thesis_-vera-arntzen.pdf) Simulation study and application to familiar cancer studies // **Vera H. Arntzen**, Mar Rodr ́ıguez-Girondo and Marta Fiocco.
+*Master thesis* (May 2020): [Weighted Cox regression models to correct for outcome dependent sampling in clustered survival data](https://www.universiteitleiden.nl/binaries/content/assets/science/mi/scripties/statscience/2019-2020/thesis_-vera-arntzen.pdf) Simulation study and application to familiar cancer studies // **Vera H. Arntzen**, Mar Rodríguez-Girondo and Marta Fiocco.
 
 ---
 
