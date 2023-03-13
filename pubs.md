@@ -29,4 +29,4 @@ description: p u b l i c a t i o n s
 
 ---
 
-*Article based on master course* (June 2015) [Dystonia and psychiatric disorders A pathofysiological connection?](https://www.ramsresearch.nl/wp-content/uploads/Second-Edition-Dystonia.pdf) // Inge Roof, Noortje van Elderen en Vera Arntzen. Radboud Annals of Medical Students (RAMS).
+*Article based on master course* (June 2015) [Dystonia and psychiatric disorders A pathofysiological connection?](https://www.ramsresearch.nl/wp-content/uploads/Second-Edition-Dystonia.pdf) // Inge Roof, Noortje van Elderen and *Vera Arntzen*. Radboud Annals of Medical Students (RAMS).
