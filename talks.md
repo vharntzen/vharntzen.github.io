@@ -59,7 +59,8 @@ July 19th, 2021	**ISCB 2021** International Society for Clinical Biostatistics, 
 
 **Poster presentation**
 
-**EPIDEMICS** International Conference on Infectious Disease Dynamics, Sitges, Spain.
+November 29th, 2017 **EPIDEMICS** International Conference on Infectious Disease Dynamics, Sitges, Spain.
+*Geographical clustering patterns of MRSA carriage in a livestock-dense region in the Netherlands*
 
 
 
