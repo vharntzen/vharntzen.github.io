@@ -17,7 +17,11 @@ description: p u b l i c a t i o n s
 
 ---
 
-*Research article* (February 2023): A new inverse probability of selection weighted Cox model to deal with outcome-dependent sampling in survival analysis // **Vera H. Arntzen**, Marta Fiocco, Inge M.M. Lakeman, Maartje Nielsen, Mar Rodríguez-Girondo In submission, preprint available on [bioaRXiv](https://www.biorxiv.org/content/10.1101/2023.02.07.527426v1)
+*Research article* (April 2023): Towards robust and accurate estimates of the incubation time distribution, with focus on upper tail probabilities and SARS-CoV-2 infection // **Vera H. Arntzen**, Marta Fiocco, Nils Leitzinger, Ronald B. Geskus Soon published in Statistics in Medicine.
+
+---
+
+*Research article* (February 2023): A new inverse probability of selection weighted Cox model to deal with outcome-dependent sampling in survival analysis // **Vera H. Arntzen**, Marta Fiocco, Inge M.M. Lakeman, Maartje Nielsen, Mar Rodríguez-Girondo Preprint available on [bioaRXiv](https://www.biorxiv.org/content/10.1101/2023.02.07.527426v1)
 
 ---
 
@@ -29,4 +33,4 @@ description: p u b l i c a t i o n s
 
 ---
 
-*Article based on master course* (June 2015) [Dystonia and psychiatric disorders A pathofysiological connection?](https://www.ramsresearch.nl/wp-content/uploads/Second-Edition-Dystonia.pdf) // Inge Roof, Noortje van Elderen and *Vera Arntzen*. Radboud Annals of Medical Students (RAMS).
+*Article based on master course* (June 2015) [Dystonia and psychiatric disorders A pathofysiological connection?](https://www.ramsresearch.nl/wp-content/uploads/Second-Edition-Dystonia.pdf) // Inge Roof, Noortje van Elderen and **Vera Arntzen**. Radboud Annals of Medical Students (RAMS).
