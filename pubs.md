@@ -33,20 +33,19 @@ description: p u b l i c a t i o n s
 
 ---
 
-### Software
+### R packages
 
 ---
 
 
 
 <div class="container">
-<h4><a name="c o n t a c t"></a>contact</h4>
+<h4><a name="wcox"></a>wcox</h4>
 
     <div class="row-fluid">
         <div class="span5">
-        *R package* (March 2023): [wcox: ](https://github.com/vharntzen/wcox) // **Vera H Arntzen**, Marta Fiocco, Mar Rodríguez-Girondo. This package allows the user to calculate inverse probability of selection weights to correct for ascertainment bias in a specific situation: outcome dependently sampled (family) data ('weighted cohort approach'). Weights can be included in a Cox proportional hazard model to obtain unbiased estimates of the effect of a (continuous) risk modifier on time-to-event. Currently available on Github, in future maybe on CRAN.<br/>
+       This package allows the user to calculate inverse probability of selection weights to correct for ascertainment bias in a specific situation: outcome dependently sampled (family) data ('weighted cohort approach'). Weights can be included in a Cox proportional hazard model to obtain unbiased estimates of the effect of a (continuous) risk modifier on time-to-event. The package is joint work with Mar Rodríguez-Girondo and Marta Fiocco. Currently it is available on Github, in future maybe on CRAN.<br/>
                   
-                    </div>
         </div>
 
         <div class="span2">
