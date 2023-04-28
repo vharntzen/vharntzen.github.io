@@ -21,17 +21,20 @@ description: p u b l i c a t i o n s
 
 ---
 
-*Research article* (April 2023): Towards robust and accurate estimates of the incubation time distribution, with focus on upper tail probabilities and SARS-CoV-2 infection // **Vera H. Arntzen**, Marta Fiocco, Nils Leitzinger, Ronald B. Geskus Soon published in Statistics in Medicine.
+*Research article* (April 2023): [Towards robust and accurate estimates of the incubation time distribution, with focus on upper tail probabilities and SARS-CoV-2 infection](https://onlinelibrary.wiley.com/doi/10.1002/sim.9726?af=R) // **Vera H. Arntzen**, Marta Fiocco, Nils Leitzinger, Ronald B. Geskus. Statistics in Medicine.
 
 ---
 
-*Research article* (February 2023): A new inverse probability of selection weighted Cox model to deal with outcome-dependent sampling in survival analysis // **Vera H. Arntzen**, Marta Fiocco, Inge M.M. Lakeman, Maartje Nielsen, Mar Rodríguez-Girondo Preprint available on [bioaRXiv](https://www.biorxiv.org/content/10.1101/2023.02.07.527426v1)
+*Research article* (February 2023): A new inverse probability of selection weighted Cox model to deal with outcome-dependent sampling in survival analysis // **Vera H. Arntzen**, Marta Fiocco, Inge M.M. Lakeman, Maartje Nielsen, Mar Rodríguez-Girondo. Preprint available on [bioaRXiv](https://www.biorxiv.org/content/10.1101/2023.02.07.527426v1)
 
 ---
 
 *Research article* (December 2019): [Multiple Sources of the Outbreak of Legionnaires' Disease in Genesee County, Michigan, in 2014 and 2015](https://ehp.niehs.nih.gov/doi/10.1289/EHP5663) // Anya F. Smith , Anke Huss , Samuel Dorevitch , Leo Heijnen , **Vera H. Arntzen** , Megan Davies , Mirna Robert-Du Ry van Beest Holle , Yuki Fujita , Antonie M. Verschoor , Bernard Raterman , Frank Oesterholt , Dick Heederik , and Gertjan Medema. Environmental Health perspectives.
 
 ---
+
+*Research article* (most work in 2017) Spatial analysis of methicillin-resistant Staphylococcus aureus carriage (MRSA) at hospital admission in a livestock dense region // **Vera H. Arntzen**, Sabiena G. Feenstra, Elisa  Benincà, T.T.N. Le, Ellen M. Mascini, Marrigje H. Nabuurs-Franssen, Andreas Voss, Agi M. Marik, Eefje de Jong, Welmoed Silvis, Maarten J. Schijffelen, Peter Schneeberger, Joost Hopman, Hester Korthals Altes & Heiman F.L. Wertheim (contributed equally). Preprint available on [bioaRXiv]()
+
 
 ### R packages
 
