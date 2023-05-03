@@ -25,7 +25,7 @@ description: p u b l i c a t i o n s
 
 ---
 
-*Research article* (February 2023): A new inverse probability of selection weighted Cox model to deal with outcome-dependent sampling in survival analysis // **Vera H. Arntzen**, Marta Fiocco, Inge M.M. Lakeman, Maartje Nielsen, Mar Rodríguez-Girondo. Preprint available on [bioaRXiv](https://www.biorxiv.org/content/10.1101/2023.02.07.527426v1)
+*Research article* (February 2023): [A new inverse probability of selection weighted Cox model to deal with outcome-dependent sampling in survival analysis](https://www.biorxiv.org/content/10.1101/2023.02.07.527426v1) // **Vera H. Arntzen**, Marta Fiocco, Inge M.M. Lakeman, Maartje Nielsen, Mar Rodríguez-Girondo. Preprint.
 
 ---
 
@@ -33,7 +33,7 @@ description: p u b l i c a t i o n s
 
 ---
 
-*Research article* (most work in 2017) Spatial analysis of methicillin-resistant Staphylococcus aureus carriage (MRSA) at hospital admission in a livestock dense region // **Vera H. Arntzen**, Sabiena G. Feenstra, Elisa  Benincà, T.T.N. Le, Ellen M. Mascini, Marrigje H. Nabuurs-Franssen, Andreas Voss, Agi M. Marik, Eefje de Jong, Welmoed Silvis, Maarten J. Schijffelen, Peter Schneeberger, Joost Hopman, Hester Korthals Altes & Heiman F.L. Wertheim (contributed equally). Preprint available on [bioaRXiv]()
+*Research article* (most work in 2017) [Spatial analysis of methicillin-resistant Staphylococcus aureus carriage (MRSA) at hospital admission in a livestock dense region](https://www.medrxiv.org/content/10.1101/2023.05.01.23289266v1) // **Vera H. Arntzen**, Sabiena G. Feenstra, Elisa  Benincà, T.T.N. Le, Ellen M. Mascini, Marrigje H. Nabuurs-Franssen, Andreas Voss, Agi M. Marik, Eefje de Jong, Welmoed Silvis, Maarten J. Schijffelen, Peter Schneeberger, Joost Hopman, Hester Korthals Altes & Heiman F.L. Wertheim (contributed equally). Preprint.
 
 
 ### R packages
