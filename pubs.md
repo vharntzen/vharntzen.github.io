@@ -35,6 +35,7 @@ description: p u b l i c a t i o n s
 
 *Research article* (most work in 2017) [Spatial analysis of methicillin-resistant Staphylococcus aureus carriage (MRSA) at hospital admission in a livestock dense region](https://www.medrxiv.org/content/10.1101/2023.05.01.23289266v1) // **Vera H. Arntzen**, Sabiena G. Feenstra, Elisa  Benincà, T.T.N. Le, Ellen M. Mascini, Marrigje H. Nabuurs-Franssen, Andreas Voss, Agi M. Marik, Eefje de Jong, Welmoed Silvis, Maarten J. Schijffelen, Peter Schneeberger, Joost Hopman, Hester Korthals Altes & Heiman F.L. Wertheim (contributed equally). Preprint.
 
+---
 
 ### R packages
 
@@ -47,7 +48,7 @@ description: p u b l i c a t i o n s
 
     <div class="row-fluid">
         <div class="span5">
-       This package allows the user to calculate inverse probability of selection weights to correct for ascertainment bias in a specific situation: outcome dependently sampled (family) data ('weighted cohort approach'). Weights can be included in a Cox proportional hazard model to obtain unbiased estimates of the effect of a (continuous) risk modifier on time-to-event. The package is joint work with Mar Rodríguez-Girondo and Marta Fiocco. Currently it is available on Github, in future maybe on CRAN.<br/>
+       This package allows the user to calculate inverse probability of selection weights to correct for ascertainment bias in a specific situation: outcome dependently sampled (family) data ('weighted cohort approach'). Weights can be included in a Cox proportional hazard model to obtain unbiased estimates of the effect of a (continuous) risk modifier on time-to-event. The package is joint work with Mar Rodríguez-Girondo and Marta Fiocco and is available from CRAN: *install.packages("wcox")* in R will install the software.<br/>
                   
         </div>
 
