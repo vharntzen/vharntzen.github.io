@@ -42,4 +42,6 @@ I am Vera, currently working as a PhD candidate in statistics applied to infecti
     </div>
 </div>
 
+Many thanks to [Karl Broman](https://kbroman.org) for making his website format openly available.
+
 
