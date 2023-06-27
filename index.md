@@ -14,6 +14,7 @@ keywords: Arntzen, infectious disease, statistics
         </div>
     </div>
 </div>
+---
 
 I am Vera, currently working as a PhD candidate in statistics applied to infectious diseases. Since June 2020, I work in the department of Mathematics, Leiden University, in the [statistics group](https://sites.google.com/view/daspo/members) lead by Marta Fiocco. My supervisors are Marta Fiocco (promotor) and Ronald Geskus (co-promotor).
 
@@ -51,7 +52,5 @@ I am Vera, currently working as a PhD candidate in statistics applied to infecti
         </div>
     </div>
 </div>
-
-Many thanks to [Karl Broman](https://kbroman.org) for making his website format openly available.
 
 
