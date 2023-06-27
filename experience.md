@@ -4,9 +4,19 @@ title:
 description: experience
 ---
 
+<div class="container">
 
-My non-academic writing is typically in Dutch. Views are mine and do not represent Leiden University.
+    <div class="row-fluid">
+        <div class="span7">
+            <img src="../pics/writing_txt.jpg"
+                  title="Profile" alt="Profile"/>
+        </div>
+    </div>
+</div>
 
+---
+
+TRYOUT
 ---
 
 ### VVSOR blog
