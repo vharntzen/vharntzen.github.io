@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-description: a b o u t
+description: e x p e r i e n c e
 ---
 
 
