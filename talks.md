@@ -50,6 +50,9 @@ June (?), 2020	**Statistics group, Mathematical Institute** *Weighted Cox to cor
 ### Conferences ###
 **Oral presentation**
 
+August 24th, 2023 **CNC 2023** Channel Network Conference (International Biometric Society), Wageningen, the Netherlands. 
+*When exactly / Two overlooked biases in SARS-CoV-2 incubation time estimation related to information regarding exposure*
+
 July 14th, 2022	**IBC 2022** International Biometric Society, Riga, Latvia. 
 *Estimation of incubation time in relation to quarantine length / The impact of distributional assumptions*
 
