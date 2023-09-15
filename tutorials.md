@@ -23,6 +23,8 @@ My non-academic writing is typically in Dutch. Views are mine and do not represe
 ### VVSOR blog
 Blog van de Nederlandse Vereniging voor Statistiek en Operations Research (VVSOR)
 
+[Hoe normaal is de normaalverdeling?](https://blog.vvsor.nl/2023/09/hoe-normaal-is-de-normaalverdeling/) 	// 14/09/2023
+
 [Waarom juist de statisticus (m) het vrouwenquotum moet omarmen](https://blog.vvsor.nl/2022/11/waarom-juist-de-statisticus-m-het-vrouwenquotum-moet-omarmen/) 	// 25/11/2022
 
 ---
