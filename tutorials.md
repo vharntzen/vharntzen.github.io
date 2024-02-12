@@ -20,16 +20,17 @@ My non-academic writing is typically in Dutch. Views are mine and do not represe
 
 ---
 
-### VVSOR blog
-Blog van de Nederlandse Vereniging voor Statistiek en Operations Research (VVSOR)
+### Column/opinie
 
-[Hoe normaal is de normaalverdeling?](https://blog.vvsor.nl/2023/09/hoe-normaal-is-de-normaalverdeling/) 	// 14/09/2023
+[Waarom betamoeders in een zwart gat verdwijnen](https://www.trouw.nl/opinie/waarom-betamoeders-in-een-zwart-gat-verdwijnen~b7dad89f/) 	// 09/02/2024 // Trouw (Opinie)
 
-[Waarom juist de statisticus (m) het vrouwenquotum moet omarmen](https://blog.vvsor.nl/2022/11/waarom-juist-de-statisticus-m-het-vrouwenquotum-moet-omarmen/) 	// 25/11/2022
+[Hoe normaal is de normaalverdeling?](https://blog.vvsor.nl/2023/09/hoe-normaal-is-de-normaalverdeling/) 	// 14/09/2023 // Blog van de Nederlandse Vereniging voor Statistiek en Operations Research (VVSOR)
+
+[Waarom juist de statisticus (m) het vrouwenquotum moet omarmen](https://blog.vvsor.nl/2022/11/waarom-juist-de-statisticus-m-het-vrouwenquotum-moet-omarmen/) 	// 25/11/2022 // Blog van de Nederlandse Vereniging voor Statistiek en Operations Research (VVSOR)
 
 ---
 
-### Leidsch Universitair Weekblad Mare
+### Interviews voor Leidsch Universitair Weekblad Mare
 
 2021
 
