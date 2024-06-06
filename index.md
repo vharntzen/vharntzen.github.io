@@ -24,4 +24,6 @@ I am Vera, freelance writer with special interest in the under-representation of
     </div>
 </div>
 
+---
+
 Many thanks to Karl Broman for making his website format openly available.
