@@ -29,7 +29,7 @@ I am Vera, freelance writer with special interest in the under-representation of
 <div class="container">
 
     <div class="row-fluid">
-        <div class="span1">
+        <div class="span2">
             <img src="../pics/profile.jpg"
                   title="Profile" alt="Profile"/>
         </div>
