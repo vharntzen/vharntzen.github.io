@@ -17,7 +17,8 @@ description: about
 </div>
 
 ---
-I am Vera, currently working as a PhD candidate in statistics applied to infectious diseases. Since June 2020, I work in the department of Mathematics, Leiden University, in the [statistics group](https://sites.google.com/view/daspo/members) lead by Marta Fiocco. My supervisors are Marta Fiocco (promotor) and Ronald Geskus (co-promotor).
+I am Vera, freelance writer with special interest in the under-representation of women in science. Previously, I was a PhD candidate in statistics applied to infectious diseases at Leiden University and freelance journalist for Leidsch Universitair Weekblad Mare.
+
 
 ---
 
