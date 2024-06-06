@@ -14,5 +14,16 @@ Many thanks to Karl Broman for making his website format openly available.
 
 ---
    
-[Orcid](https://orcid.org/0000-0002-2642-9898) /| [Github](https://github.com/vharntzen) /| [LinkedIn](https://nl.linkedin.com/in/vera-arntzen-b48271163) | Mail: veraarntzen "at" hotmail.com
+[Orcid](https://orcid.org/0000-0002-2642-9898) /| [Github](https://github.com/vharntzen) /| [LinkedIn](https://nl.linkedin.com/in/vera-arntzen-b48271163) / veraarntzen "at" hotmail.com
 
+---
+
+<div class="container">
+
+    <div class="row-fluid">
+        <div class="span1">
+            <img src="../pics/profile.jpg"
+                  title="Profile" alt="Profile"/>
+        </div>
+    </div>
+</div>
