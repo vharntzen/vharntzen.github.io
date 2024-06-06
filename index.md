@@ -6,7 +6,7 @@ keywords: Arntzen, infectious disease, statistics
 ---
 
 
-I am Vera, currently working as a PhD candidate in statistics applied to infectious diseases. Since June 2020, I work in the department of Mathematics, Leiden University, in the [statistics group](https://sites.google.com/view/daspo/members) lead by Marta Fiocco. My supervisors are Marta Fiocco (promotor) and Ronald Geskus (co-promotor).
+I am Vera, freelance writer with special interest in the under-representation of women in science. Previously, I was a PhD candidate in statistics applied to infectious diseases at Leiden University and freelance journalist for Leidsch Universitair Weekblad Mare.
 
 ---
 
@@ -25,16 +25,11 @@ Many thanks to Karl Broman for making his website format openly available.
         <div class="span5">
             Vera Arntzen (she/her)<br/>
             <a href="https://www.universiteitleiden.nl/en/staffmembers/vera-arntzen#tab-1">Mathematical Institute</a><br/>
-            <a href="https://www.universiteitleiden.nl">Leiden University</a><br/>
-           Snellius gebouw <br/>
-           Niels Bohrweg 1<br/>
-           2333 LA, Leiden<br/>
-           The Netherlands<br/><br/>
-            
+            <a href="https://www.universiteitleiden.nl">Leiden University</a><br/>            
             <div id="hide_email">
-            Email: <code>v.h.</code><b>I</b><code>arntzen</code><b>don't</b><code> "at" </code><b>want</b><code></code><b>spam!
-            </b><code></code><b>So</b><code></code><b>please</b><code>math.</code><b>leave
-            </b><code>leidenuniv</code><b>me</b><code>.</code><b>alone</b><code>n</code><b>!</b><code>l</code><br/>
+            Email: <code>veraarntzen</code> "at" </code><b>want</b><code></code><b>spam!
+            </b><code></code><b>So</b><code></code><b>please</b><code>hotmail</code><b>leave
+            </b><code></code><b>me</b><code>.</code><b>alone</b><code>c</code><b>!</b><code>om</code><br/>
             </div>
         </div>
 

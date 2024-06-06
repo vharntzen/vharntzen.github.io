@@ -19,6 +19,8 @@ description: p u b l i c a t i o n s
 
 ### Research articles
 
+*Research article* (June 2024): [Two biases in incubation time estimation related to exposure](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-024-09433-7) // **Vera H. Arntzen**, Marta Fiocco, Ronald B. Geskus. BMC Infectious Diseases.
+
 ---
 
 *Research article* (April 2023): [Towards robust and accurate estimates of the incubation time distribution, with focus on upper tail probabilities and SARS-CoV-2 infection](https://onlinelibrary.wiley.com/doi/10.1002/sim.9726?af=R) // **Vera H. Arntzen**, Marta Fiocco, Nils Leitzinger, Ronald B. Geskus. Statistics in Medicine.
@@ -48,7 +50,7 @@ description: p u b l i c a t i o n s
 
     <div class="row-fluid">
         <div class="span5">
-       This package allows the user to calculate inverse probability of selection weights to correct for ascertainment bias in a specific situation: outcome dependently sampled (family) data ('weighted cohort approach'). Weights can be included in a Cox proportional hazard model to obtain unbiased estimates of the effect of a (continuous) risk modifier on time-to-event. The package is joint work with Mar Rodríguez-Girondo and Marta Fiocco and is available from CRAN: *install.packages("wcox")* in R will install the software.<br/>
+       This package allows the user to calculate inverse probability of selection weights to correct for ascertainment bias in a specific situation: outcome dependently sampled (family) data ('weighted cohort approach'). Weights can be included in a Cox proportional hazard model to obtain unbiased estimates of the effect of a (continuous) risk modifier on time-to-event. The package is joint work with Mar Rodríguez-Girondo and Marta Fiocco and is available from CRAN: install.packages("wcox") in R will install the software.<br/>
                   
         </div>
 
@@ -56,6 +58,23 @@ description: p u b l i c a t i o n s
         <a href="../pics/logo.jpg">
             <img src="../pics/logo.jpg"
                   title="wcox" alt="wcox"/></a>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+<h4><a name="doublIn"></a>doublIn</h4>
+
+    <div class="row-fluid">
+        <div class="span5">
+       This package provides convenient tools to estimate incubation and latency time of infectious diseases and is available from CRAN: install.packages("doublIn") in R will install the software. The software is suitable for doubly interval censored observations collected during the exponential growth or decay phase and allows for flexible choices regarding the shape of the distribution. <br/>
+                  
+        </div>
+
+        <div class="span2">
+        <a href="../pics/doublIn.png">
+            <img src="../pics/doublIn.png"
+                  title="doublIn" alt="doublIn"/></a>
         </div>
     </div>
 </div>
